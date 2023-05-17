@@ -1,2 +1,2 @@
-accuracy = 
-avg dispersion = 
+accuracy = 0.3604
+avg dispersion = 0.35338019958548816
