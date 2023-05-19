@@ -1,2 +1,15 @@
-accuracy = 0.3604
-avg dispersion = 0.35338019958548816
+
+
+train dataset:
+
+Accuracy:  0.40326
+F1 score: 0.3822006395253787
+avg dispersion: 0.4019816819918239
+quantization error:  18.70519458802511
+avg neuron distances : 7.738966589327227
+-------------------------------
+test dataset:
+
+Total Accuracy:  0.40460000000000124
+Average F1 score: 0.4199566666666668
+Average Dispersion : 0.4019816819918239
